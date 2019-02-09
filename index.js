@@ -19,3 +19,7 @@ function shout(string) {
 function whisper(string) {
   return whisper.toLowerCase()
 }
+
+function logShout(string) {
+  return whisper.toLowerCase()
+}
